@@ -1,0 +1,3 @@
+Primeiro desafio de repositorio da DIO de git/ github
+
+Github é uma plataforma de código fonte e arquivos de controle usando o Git
